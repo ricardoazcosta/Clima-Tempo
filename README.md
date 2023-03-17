@@ -37,7 +37,7 @@ Além de fazer parte da metodologia de ensinar e treinar as Habilidades de tecno
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://calculadoragorgetas.netlify.app/)
+Você pode visualizar o layout do projeto através [DESSE LINK](https://ricardoazcosta.github.io/Clima-Tempo/)
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
